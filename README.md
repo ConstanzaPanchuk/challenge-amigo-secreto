@@ -18,4 +18,8 @@ El proyecto consiste en una herramienta para cargar nombres de personas, en este
 
 
 :camera:**Capturas de pantalla**
+
 <img width="1358" height="658" alt="image" src="https://github.com/user-attachments/assets/fbf22df9-087f-49e0-8ddb-3fbf51944aa3" />
+
+https://github.com/user-attachments/assets/a84d4b67-cad6-4466-a00f-70022ea99b90
+
